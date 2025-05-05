@@ -1,11 +1,6 @@
 # O'Dea High School 
 
-<div style="display: flex; align-items: center; gap: 16px;">
-  <img src="https://www.odea.org/wp-content/themes/odea-high-school/img/logo-color.png" alt="O'Dea High School Logo" height="80" />
-  <span style="font-size: 1.2em;">
-    Welcome to the official GitHub organization for the O'Dea High School Computer Science Program! Here you'll find resources, projects, and collaborative work from our students and faculty.
-  </span>
-</div>
+Welcome to the official GitHub organization for the O'Dea High School Computer Science Program! Here you'll find resources, projects, and collaborative work from our students and faculty.
 
 ## About Us
 O'Dea High School's CS Program is dedicated to empowering students with the skills and knowledge needed to thrive in today's technology-driven world. We offer a range of courses from introductory programming to advanced computer science topics, fostering creativity, problem-solving, and teamwork.
